@@ -1,0 +1,33 @@
+
+aside{
+    img{
+        height: 1080px;
+        object-fit: cover;
+    }
+    h1{
+        font-size: 20pt;
+        margin-top: -20px;
+        display: flex;
+        justify-content: center;
+            
+            
+    }
+    section{
+        display: flex;
+        flex-direction:row;
+        justify-content: center;
+        gap:10px;
+        
+        div{
+            background-color: greenyellow;
+            height: 350px;
+            width: 150px;
+            border-radius: 8px;
+            padding: 50px;
+            box-shadow:20px 20px 50px 10px #3000ff;
+            h2{
+                font-size: 12pt;
+            }
+        }
+    }
+}

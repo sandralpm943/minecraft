@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.info{
+    background-color: black;
+    h1{
+        color: antiquewhite;
+        display: flex;
+        justify-content: center;
+        border-radius: 10px;
+        
+       
+    }
+    p{
+        display: flex;
+        font-size: 12pt;
+        color: beige;
+        margin: 50px;
+        justify-content: center;
+    }
+}
