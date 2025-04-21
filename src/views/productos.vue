@@ -3,7 +3,7 @@
     <div>
         
         <aside>
-            <img src="../css/img/minecraft-shaders-hd-wallpaper-thumb.jpg" alt="fondo">
+           
             <h1>Productos de Minecraft</h1>
             <section>
                 <div >

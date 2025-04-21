@@ -1,8 +1,17 @@
 
 aside{
     img{
-        height: 1080px;
-        object-fit: cover;
+        
+    padding: 100px;
+        display: flex;
+      object-fit: cover;  
+      height: 500px;
+      width: 740px;
+      /*height: 50%;*/
+      
+      
+      
+     
     }
     h1{
         font-size: 20pt;

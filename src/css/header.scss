@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    .bienvenidos{
+        background-color: orange;
+        width: auto;
+        height: 56px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    nav{
+        .naranja{
+            display: flex;
+            justify-content: center;
+            img{
+                height: 350px;
+                width: 243px;
+
+            }
+            
+        }
+        .pack{
+            background-color: aqua;
+            display: flex;
+            width: 100px;
+            height: 100px;
+            flex-direction: row;
+            list-style: none;
+            margin-right: 2340px;
+
+                a{
+
+
+                }
+            
+        }
+        .pack2{
+            background-color: pink;
+            width: 100px;
+            height: 100px;
+            display: flex;
+            margin-left: 1340px;
+            list-style: none;
+            a{
+
+            }
+        }
+        .pack1{
+            background-color: red;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            list-style: none;
+            
+        }
+    }
+}
